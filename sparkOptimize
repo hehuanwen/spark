@@ -1,2 +1,2 @@
-spark用Map来聚合数据
+spark用Map来聚合map阶段的数据
 非聚合的情况使用buffer
